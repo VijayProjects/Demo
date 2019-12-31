@@ -4,4 +4,8 @@ class Demo
 
 		System.out.println("menu() is executed");
 	}
+
+	public void test() {
+		// TODO
+	}
 }
